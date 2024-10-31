@@ -1,1 +1,1 @@
-pixman/pixman:1.7.16
+pixman:1.7.16
