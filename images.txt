@@ -1,1 +1,1 @@
-docker pull pixman/pixman-armv7
+pixman/pixman-armv7
