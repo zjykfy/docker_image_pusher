@@ -1,1 +1,1 @@
-pixman/pixman-armv7
+pixman/pixman:1.0.0
