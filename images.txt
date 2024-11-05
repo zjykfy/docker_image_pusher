@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox:native-host
+josh5/tvh-iptv-config:latest
