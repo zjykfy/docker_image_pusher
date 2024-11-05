@@ -1,1 +1,1 @@
-sulrich423/tv:latest
+haroldli/xiaoya-tvbox:native-host
