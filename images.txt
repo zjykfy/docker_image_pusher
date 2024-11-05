@@ -1,1 +1,1 @@
-rdevos72/iptv-proxy:20241104
+sonroyaalmerol/m3u-stream-merger-proxy:dev
