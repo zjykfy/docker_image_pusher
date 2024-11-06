@@ -1,1 +1,1 @@
-m3u_proxy_installer
+m3u_proxy
