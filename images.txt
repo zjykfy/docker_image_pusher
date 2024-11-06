@@ -1,1 +1,1 @@
-taksss/php-epg
+m3u_proxy_installer
