@@ -1,1 +1,1 @@
-m3u-proxy
+m3u_proxy_installer:v1.3
