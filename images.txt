@@ -1,1 +1,1 @@
-M3U-Proxy:v1.3
+m3u-Proxy:v1.3
