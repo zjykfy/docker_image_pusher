@@ -1,1 +1,1 @@
-StreamShield Proxy 1.3.8
+ppyycc/streamshield-proxy:v1.3.8
