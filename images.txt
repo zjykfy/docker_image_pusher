@@ -1,1 +1,1 @@
-ppyycc/streamshield-proxy:v1.3.8
+taksss/php-epg:latest
